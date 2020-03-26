@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "019cdf58-747f-4095-b3bd-cc1d995c63ba",
+  "rawTextureUuid": "55a34eef-28a8-4fea-bd88-6d46b58a36a8",
+  "size": {
+    "width": 24,
+    "height": 24
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Idle.png": {
+      "ver": "1.0.4",
+      "uuid": "58a1f7de-0d86-460b-a033-754b7fd4a052",
+      "rawTextureUuid": "55a34eef-28a8-4fea-bd88-6d46b58a36a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 22,
+      "height": 22,
+      "rawWidth": 28,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

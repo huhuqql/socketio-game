@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "fe447b6f-47fe-44c6-a4a5-e9bbe4763c41",
+  "rawTextureUuid": "9c8d98d3-b954-4347-baac-51c66a71e0ac",
+  "size": {
+    "width": 34,
+    "height": 34
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Jump (32x32).png": {
+      "ver": "1.0.4",
+      "uuid": "d033b9a5-53e2-439b-90cb-606bf3c10b18",
+      "rawTextureUuid": "9c8d98d3-b954-4347-baac-51c66a71e0ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 32,
+      "height": 32,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

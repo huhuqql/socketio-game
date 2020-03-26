@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "double-jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8c512112-d3e0-4aeb-b451-abb4b0d22130"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "3f30cd8e-3dba-40a0-aa2f-d2ee71aab394"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "1ea4ec6d-58f5-4685-a87d-2b5dc662b307"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "869df096-5736-43be-87d7-eafcf82d6c00"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "14167272-3443-4049-add1-0a6397373eeb"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "54bf28b5-4c9f-498c-a975-99cdc9c2597d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
