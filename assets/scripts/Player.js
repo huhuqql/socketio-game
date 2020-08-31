@@ -13,7 +13,6 @@ cc.Class({
     properties: {
     },
 
-
     onLoad () {
         this.motion = {};
         this.direction = {};
